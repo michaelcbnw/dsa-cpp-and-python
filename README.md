@@ -1,1 +1,2 @@
-# python-fundamental
+# catatan Data Structure and Algorithm
+in C++ andPython
